@@ -48,7 +48,7 @@ findBoxVolume2(box2);
 // --------------------------------
 
 type ID = number | string;
-function print(id: ID) {
+function print2(id: ID) {
     //
 }
 
